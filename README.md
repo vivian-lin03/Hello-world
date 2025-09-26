@@ -32,8 +32,14 @@ input what files (csv, txt etc) you used for your code or program
 
 List out how were you able to run the program. Were there any additional steps?
 
+
 ## Additional information
 
 Any additional information you want to provide to readers or yourself if you were to go back
 
+Here is some additional markdown info that may be useful for the future when clicking 'edit' in readme:
+
+**BOLD** text  
+*Italics* text  
+***Bold and Italics*** text  
 
