@@ -28,6 +28,10 @@ List out what tools/program you utilized
 
 input what files (csv, txt etc) you used for your code or program
 
+read_me
+  |_
+    xxx
+
 ## How to run program
 
 List out how were you able to run the program. Were there any additional steps?
