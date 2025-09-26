@@ -28,9 +28,6 @@ List out what tools/program you utilized
 
 input what files (csv, txt etc) you used for your code or program
 
-read_me
-  |_
-    xxx
 
 ## How to run program
 
