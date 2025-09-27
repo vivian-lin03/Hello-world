@@ -13,7 +13,7 @@ My first repository that showcases organization tips and a baseline to follow wh
 
 ## Project Title🖋️
 
-"Hello World Sample - My First Repository"
+<ins>Hello World Sample - My First Repository</ins>
 
 
 ## Decription📖
