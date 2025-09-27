@@ -44,7 +44,7 @@ Any additional information you want to provide to readers or yourself if you wer
 
 Here is some additional markdown info that may be useful for the future when clicking 'edit' in readme:
 
-**BOLD** text  
-*Italics* text  
-***Bold and Italics*** text  
+**For information that you want to pop out, bold is pretty good**
+*Using italics for definition will draw your attention to it*  
+*** When you really want to draw your readers attention above all other information use the combination of italics and bold ***  
 
