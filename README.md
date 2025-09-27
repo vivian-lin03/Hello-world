@@ -33,8 +33,8 @@ input what files (csv, txt etc) you used for your code or program
 
 List out how were you able to run the program. Were there any additional steps?
 You can use a task list format like this:
-- [x ]✔️ Step 1: Make sure the code is clean  
-- [ ]🛑 Step 2: Convert ...  
+- [ ] ✔️ Step 1: Make sure the code is clean  
+- [ ] 🛑 Step 2: Convert ...  
 - [ ] Step 3: ...  
 
 
