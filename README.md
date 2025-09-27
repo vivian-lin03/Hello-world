@@ -18,16 +18,23 @@ My first repository that showcases organization tips and a baseline to follow wh
 
 ## Decription📖
 
-Write down all the description of the project you are working so you or anyone reading it can understand what the program is doing
-
+Write down all the description of the project you are working so you or anyone reading it can understand what the program is doing  
+You can organize certain description that fits in certain categories like this:
+1. The goal of this program is...  
+   - A decription of why this is the goal  
+     - A description of the why's or the inspiration
+2. What is the program going to do
+   - Provide a basic summary
+     - what you should expect
+    
+    
 ## Tools Used🧰
 
 List out what tools/program you utilized
 
 ## Files Used📁
 
-input what files (csv, txt etc) you used for your code or program
-
+input what files (csv, txt etc) you used for your code or program  
 
 ## How to run program🏃
 
